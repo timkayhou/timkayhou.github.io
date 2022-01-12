@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome To My Blog!"
+title: "Expurgator"
 excerpt: "About me"
 author_profile: true
 redirect_from:

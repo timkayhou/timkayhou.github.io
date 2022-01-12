@@ -85,7 +85,7 @@ author:
   bio              : "God's in his heaven, All's right with the world."
   location         : "Tokyo"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #""
   email            : "timkayhou@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "timkayhou"
-  orcid            : "http://orcid.org/timkayhou"
+  orcid            : # "http://orcid.org/timkayhou"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/14863318/expurgator"
