@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Expurgator"
-  avatar           : "profile.png"
+  avatar           : "https://raw.githubusercontent.com/timkayhou/my-pictures/main/avatars/avatar_128px.jpg"
   bio              : "My biography for the left-hand sidebar."
   location         : "Tokyo"
   employer         :
