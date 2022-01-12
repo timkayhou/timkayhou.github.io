@@ -82,38 +82,38 @@ analytics:
 author:
   name             : "Expurgator"
   avatar           : "https://raw.githubusercontent.com/timkayhou/my-pictures/main/avatars/avatar_128px.jpg"
-  bio              : "My biography for the left-hand sidebar."
+  bio              : "God's in his heaven, All's right with the world."
   location         : "Tokyo"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://timkayhou.com"
-  email            :
+  googlescholar    : #""
+  email            : "timkayhou@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "timkayhou"
   foursquare       :
-  github           : "My academicpages"
+  github           : "timkayhou"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "timkayhou"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "timkayhou"
   orcid            : "http://orcid.org/timkayhou"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    : "https://stackoverflow.com/users/14863318/expurgator"
+  steam            : "expurgatorious"
   tumblr           :
-  twitter          : "http://www.twitter.com/timkayhou"
+  twitter          : "timkayhou"
   vine             :
-  weibo            :
+  weibo            : "725489123"
   xing             :
-  youtube          :
+  youtube          : "UCOuJYn159EsQfEduhxFzl8w"
   wikipedia        :
 
 
